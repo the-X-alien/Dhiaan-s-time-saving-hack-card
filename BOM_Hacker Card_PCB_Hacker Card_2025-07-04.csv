@@ -1,4 +1,4 @@
-No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,JLCPCB Price,Name,LCSC Price
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,JLCPCB Price,Name,
 1,1,25X48MM_NFC_ANTENNA,1,25X48MM_NFC_ANTENNA,,,,,,,25X48MM_NFC_ANTENNA,
 2,6,220nF,"C1,C2,C3,C4,C5,C6",C0603,,CL10B224KA8NNNC,SAMSUNG(三星),C21120,LCSC,0.0008,220nF,
 3,6,17-21SUYC/TR8,"LED1,LED2,LED3,LED4,LED5,LED6",LED0805-R-RD,,KT-0805黄灯,KENTO,C2296,LCSC,0.0018,17-21SUYC/TR8,
