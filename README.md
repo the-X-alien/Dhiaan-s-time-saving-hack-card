@@ -14,5 +14,5 @@ It has all of my info and the NFC should link a website that talks about me. I a
 | 47Ω                | 6        | $0.01      | LCSC    | $0.01                             |
 | NT3H2111W0FHKH     | 1        | $0.86      | LCSC    | $0.86                             |
 | PCB                | 1        | $7         | JLCPCB  | $7                                |
-|                    |          |            |         | $7.98 + shipping + crazy-cali-tax = ~$25 |
+|                    |          |            |         | $7.98 + shipping + tax = ~$25 |
 ---
