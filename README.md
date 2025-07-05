@@ -2,8 +2,8 @@
 This should help me by introducing my self to new people so I don't have to!
 It has all of my info and the NFC should link a website that talks about me. I added some famous artworks to make it cooler!
 ![image](https://github.com/user-attachments/assets/49f6f537-8d5f-458d-aba3-67eb22893d3b)
-![image](https://github.com/user-attachments/assets/6b436ef3-c52a-4445-a3a4-a9e4f6c0cf20)
-![image](https://github.com/user-attachments/assets/24ae4d61-f791-41e3-b797-d4630ba9ffc3)
+![image](https://github.com/user-attachments/assets/51aca603-3bf9-4cb8-bced-74bb45d99efb)
+![image](https://github.com/user-attachments/assets/797e2002-4ef6-41c8-bafe-3944699d5b03)
 ---
 ## BOM
 | Part Name          | Quantity | Unit Price | Source  | Total Price                       |
