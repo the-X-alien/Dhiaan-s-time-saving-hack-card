@@ -13,6 +13,6 @@ It has all of my info and the NFC should link a website that talks about me. I a
 | 17-21SUYC/TR8      | 6        | $0.01      | LCSC    | $0.08                             |
 | 47Ω                | 6        | $0.01      | LCSC    | $0.01                             |
 | NT3H2111W0FHKH     | 1        | $0.86      | LCSC    | $0.86                             |
-| PCB                | 1        | $7         | JLCPCB  | $7                                |
-|                    |          |            |         | $8 + shipping + tax = ~$25 |
+| PCB                | 1        | $7         | JLCPCB  | $2                                |
+|                    |          |            |         | $2.98 + $15 + 9.75% (1.75305) tax = $19.73|
 ---
